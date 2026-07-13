@@ -1,0 +1,14 @@
+@import "tailwindcss";
+
+@theme {
+  --color-google-bg: #202124;
+  --color-google-surface: #2d2e30;
+  --color-google-hover: rgba(255, 255, 255, 0.08);
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', 'Segoe UI', Arial, sans-serif;
+  user-select: none;
+}

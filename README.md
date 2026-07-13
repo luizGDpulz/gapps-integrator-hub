@@ -1,2 +1,3 @@
-# gapps-integrator-hub
-A lightweight, performance-focused Firefox extension for seamless integration with the Google ecosystem.
+# WXT + React
+
+This template should help get you started developing with React in WXT.
